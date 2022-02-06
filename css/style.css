@@ -1,0 +1,64 @@
+@import "null.css";
+
+.container {
+	width: 1200px;
+}
+img {
+	max-width: 1200px;
+}
+.red {
+	color: red;
+}
+.orange {
+	color: orange;
+}
+.yellow {
+	color: yellow;
+}
+.green {
+	color: green;
+}
+.cyan {
+	color: cyan;
+}
+.blue {
+	color: blue;
+}
+.purple {
+	color: purple;
+}
+
+div.dispersion {
+	color: forestgreen;
+}
+#beginning {
+	color: maroon;
+}
+.color-psychology p {
+	color: teal;
+}
+div h2 {
+	color: plum;
+}
+.color-accent.block {
+	color: lime;
+}
+[title="Выбор основного цвета"] {
+	color: orangered;
+}
+[class*="__list"] {
+	color: steelblue;
+}
+.palette-creation,
+.grey-shades {
+	color: lightslategrey;
+}
+.color-psychology > p {
+	color: yellowgreen;
+}
+.rgb + p {
+	color: tomato;
+}
+.cold-warm ~ li {
+	color: royalblue;
+}
